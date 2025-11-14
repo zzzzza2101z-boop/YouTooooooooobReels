@@ -1,0 +1,6 @@
+Flask
+yt-dlp
+ffmpeg-python
+pydub
+openai
+numpy

@@ -1,0 +1,12 @@
+{
+  "name": "vizard-private-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.x",
+    "react-dom": "18.x"
+  },
+  "scripts": {
+    "start": "vite"
+  }
+}
